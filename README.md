@@ -23,7 +23,7 @@
 - 🎓 Sophomore at IIT (ISM) Dhanbad  
 - 💻 I love building full-stack web applications  
 - 🔭 Currently working on: `your-project-name-here`  
-- 🌱 Currently learning: `Next.js`, `TypeScript`, `Tailwind CSS`  
+- 🌱 Currently learning: `Python`, `SQL`, `Drizzle`  
 - 📫 How to reach me: [animeshsahoo159@gmail.com](mailto:animeshsahoo159@gmail.com)  
 - ⚡ Fun fact: I still debug with `console.log` 😄  
 
