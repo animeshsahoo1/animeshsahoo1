@@ -41,17 +41,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshsahoo1&show_icons=true&theme=tokyonight&hide_border=true" alt="Animesh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshsahoo1&theme=tokyonight&hide_border=true" alt="Animesh's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsahoo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=animeshsahoo1&show_icons=true&theme=tokyonight&hide_border=true" alt="Animesh's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshsahoo1&theme=tokyonight&hide_border=true" alt="Animesh's GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsahoo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
