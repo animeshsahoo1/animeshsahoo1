@@ -12,7 +12,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/animeshsahoo1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/animesh15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:animeshsahoo159@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
