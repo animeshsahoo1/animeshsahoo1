@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Animesh Sahoo</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">A passionate developer from INDIA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFEF&width=440&lines=Web+Developer;Open+Source+Contributor;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
